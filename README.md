@@ -1,6 +1,6 @@
 # 🏆 Personalized contest recommendation system
 ---
-(2020/12/18 ~ )
+( 2020/12/18 ~ )
 
 
 **1. Crawling and Preprocessing contest_data** [code](https://github.com/herjh0405/Personalized-contest-recommendation-system/blob/master/001.%20Crawling%20and%20Preprocessing%20contest_data.ipynb)
