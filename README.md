@@ -1,6 +1,6 @@
 # 🏆 Personalized contest recommendation system
 ---
-
+(2020/12/18 ~
 **1. Crawling and Preprocessing contest_data** [code](https://github.com/herjh0405/Personalized-contest-recommendation-system/blob/master/001.%20Crawling%20and%20Preprocessing%20contest_data.ipynb)
 - 추천을 위해 공모전 데이터 추출 및 수집 [data](https://github.com/herjh0405/Personalized-contest-recommendation-system/tree/master/data)
    - 공모전에 대한 기본 정보와 분야별/참가자격별/주최기관별/상금규모별로 이루어져 있음
